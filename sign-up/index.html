@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily UI 001 | Sign Up</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <section class="banner">
+        <div class="container flex-center">
+          <p class="logo"><i class="fas fa-lock"></i></p>
+          <h1 class="banner__title">Protect your data with us.</h1>
+          <p class="banner__content">
+            <span class="count">230,100</span> People trust us!
+          </p>
+        </div>
+      </section>
+
+      <section class="form">
+        <div class="container flex-center">
+          <form action="post" class="form__signup">
+            <div class="form__group">
+              <input
+                type="email"
+                name="email"
+                id="email"
+                placeholder="Email address"
+                aria-label="email"
+                class="form__control"
+              />
+            </div>
+            <div class="form__group">
+              <input
+                type="password"
+                name="password"
+                id="password"
+                placeholder="Password"
+                aria-label="password"
+                class="form__control"
+              />
+            </div>
+            <button type="submit" class="submitBtn">Sign Up</button>
+          </form>
+          <footer class="form__footer">
+            <p class="form__footer-text">
+              Already Signed Up? <a href="#">Log In</a>
+            </p>
+          </footer>
+        </div>
+      </section>
+    </div>
+
+    <script
+      src="https://kit.fontawesome.com/f51219bb95.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
