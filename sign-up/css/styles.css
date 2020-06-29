@@ -73,7 +73,6 @@ img {
   background-color: var(--clr-main-bg);
   color: var(--clr-white);
   font-size: 1.2rem;
-  padding: 5rem 0;
 }
 
 @media (min-width: 35em) {
