@@ -11,5 +11,6 @@ Inspiration:
 
 - [x] [Signup form](https://github.com/khwilo/001-signup)
 - [x] [Credit card checkout form](https://github.com/khwilo/002-credit-card-checkout)
+- [x] [Landing page](https://github.com/khwilo/003-landing-page)
 
 All applications have been written by [Khwilo Kabaka](https://khwilo.now.sh/).
