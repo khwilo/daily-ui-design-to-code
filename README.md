@@ -13,5 +13,6 @@ Inspiration:
 - [x] [Credit card checkout form](https://github.com/khwilo/002-credit-card-checkout)
 - [x] [Landing page](https://github.com/khwilo/easybank-landing-page)
 - [x] [Calculator](https://github.com/khwilo/tip-calculator)
+- [x] [User Profile](https://github.com/khwilo/instagram-profile)
 
 All applications have been written by [Khwilo Kabaka](https://khwilo.now.sh/).
