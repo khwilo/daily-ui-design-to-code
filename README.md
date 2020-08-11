@@ -9,7 +9,7 @@ Inspiration:
 
 ## CHALLENGES
 
-- [x] [Signup form](https://github.com/khwilo/001-signup)
+- [x] [User registration form](https://github.com/khwilo/user-registration-ui)
 - [x] [Credit card checkout form](https://github.com/khwilo/002-credit-card-checkout)
 - [x] [Landing page](https://github.com/khwilo/easybank-landing-page)
 - [x] [Calculator](https://github.com/khwilo/tip-calculator)
